@@ -7,7 +7,7 @@ import org.jetbrains.kotlin.gradle.tasks.*
 plugins {
     java
     kotlin("jvm")
-    kotlin("plugin.allopen") version "1.3.50"
+    kotlin("plugin.allopen") version "1.4.0-dev-7568"
     id("kotlinx.benchmark") version "0.2.0"
 }
 
